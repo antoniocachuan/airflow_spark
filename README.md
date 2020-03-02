@@ -1,0 +1,2 @@
+# A gentle introduction to Data Workflows with Apache Airflow and Apache Spark REPO
+This repository is for the code used on the article published. If you need help or want to discuss any related topics please ping me on [Linkedin](http://linkedin.com/in/antoniocachuan)
